@@ -46,11 +46,9 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-![Screenshot 2025-04-24 160525](https://github.com/user-attachments/assets/b90c9816-76cb-4ee6-a518-2c11c892b2e9)
-
-![Screenshot 2025-04-24 160501](https://github.com/user-attachments/assets/d15cc14c-c734-48fd-b456-8deef8069b35)
-
 ![Screenshot 2025-04-24 160427](https://github.com/user-attachments/assets/0bb8587e-fe2e-4dc4-9367-dbe447720185)
+![Screenshot 2025-04-24 160501](https://github.com/user-attachments/assets/d15cc14c-c734-48fd-b456-8deef8069b35)
+![Screenshot 2025-04-24 160525](https://github.com/user-attachments/assets/b90c9816-76cb-4ee6-a518-2c11c892b2e9)
 
 ### Name: Tejashree S S
 ### Register Number: 212224100058
